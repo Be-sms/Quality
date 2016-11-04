@@ -8,6 +8,7 @@ package com.besms.lab;
 /**
  *
  * @author kyrmann
+ * test done fro repo
  */
 public enum AutoType {
     
